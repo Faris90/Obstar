@@ -11,10 +11,10 @@
         "ejs":"~2.7.1",
         "body-parser":"~1.19"
     },
-    "start": {
+
         "scripts": {
     "start": "node obstarWeb.js",
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
+ 
     },
 }
